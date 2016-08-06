@@ -1,5 +1,4 @@
 ﻿
-
 SERVER = "http://psoap.atlantistelecom.net/android/ajax.php";
 iAccount = null;
 number = null;

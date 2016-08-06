@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<div>
+  <table>
+    <tr>
+      <td rowspan="2">
+        <img src="images/ic_contacts.png" />
+      </td>
+      <td width="80%">
+        <div class="contact_number"></div>
+      </td>
+      <td  width="20%">
+        <div class="unreaded_cnt"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="message_body"></div>
+      </td>
+      <td>
+        <div class="messagege_date"></div>
+      </td>
+    </tr>
+  </table>
+</div>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<div>
+  <div id="msg_from">
+    <p class="message_date"/>
+    <table>
+      <tr>
+        <td width="80%">
+          <div class="message_body"></div>
+        </td>
+        <td>
+          <img src="images/ic_contacts.png" />
+        </td>
+      </tr>
+    </table>
+    <p class="message_time"/>
+  </div>
+</div>
